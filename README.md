@@ -1,5 +1,6 @@
 # Introduction
 Description of the project
+Practicing Markov chain algorithm analysis in bioinformatics. 
 
 # Pseudocode
 Put pseudocode in this box:
@@ -22,4 +23,4 @@ Group leader's reflection on the project
 Other members' reflections on the project
 
 # Generative AI Appendix
-As per the syllabus
+N/A
